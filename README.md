@@ -1,5 +1,7 @@
 # Multi-Agent path planning in python
 
+# This fork attempts to implement the paper https://www.ijcai.org/Proceedings/2019/0006.pdf aka Multi Agent Pathfinding with continuous time. The paper mentions that CBS must be converted to Continuous (C) CBS and that there also be a modification to the SIPP algorithm. I will attempt to do the modifications.
+
 # Introduction
 This repository consists of the implementation of some multi-agent path-planning algorithms in Python. Two methods, namely Safe-Interval Path Planning, and Conflict-Based Search are implemented. Later, 
  
